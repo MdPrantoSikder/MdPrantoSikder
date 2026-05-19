@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [bangla-news-aggregator.](https://github.com/MdPrantoSikder/bangla-news-aggregator.git)
 
-- 🌱 I’m currently learning **Django,React js**
+- 🌱 I’m currently learning **FastAPI,React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdPrantoSikder](https://github.com/MdPrantoSikder)
 
