@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdprantosikder&label=Profile%20views&color=0e75b6&style=flat" alt="mdprantosikder" /> </p>
 
-- 🔭 I’m currently working on [bangla-news-aggregator.](https://github.com/MdPrantoSikder/bangla-news-aggregator.git)
+- 🔭 I’m currently working on [python-2d-game.](https://github.com/MdPrantoSikder/python-2d-game.git)
 
 - 🌱 I’m currently learning **FastAPI,Django,React js**
 
