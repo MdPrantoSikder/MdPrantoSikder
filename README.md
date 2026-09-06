@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [python-2d-game.](https://github.com/MdPrantoSikder/python-2d-game.git)
 
-- 🌱 I’m currently learning **FastAPI,Django,React js**
+- 🌱 I’m currently learning **FastAPI,Django,postgresql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MdPrantoSikder](https://github.com/MdPrantoSikder)
 
